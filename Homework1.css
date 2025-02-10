@@ -1,0 +1,21 @@
+/*
+Program name: Homework1.css
+Author: Ubaldo Nevarez Jr.
+Date created: 02/08/2025
+Date last edited: 02/08/2025
+Description: Style sheet for Registration form for MIS 3371 
+*/
+body  {background-image:url(wallpaper2.gif)
+}
+h1 {float:right;
+    font-family:sans-serif;
+}
+form {background-color: azure;
+padding: 20px;
+border-spacing: 0px;
+}
+label {display:inline-block;
+width: 100px;
+text-align:end;}
+fieldset {width:250px;
+}
